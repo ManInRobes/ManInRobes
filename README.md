@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManInRobes
-- 👀 I’m interested in learning how to use python, linux, and how to do front end UIs
-- 🌱 I’m currently learning Linux, how to use docker, what the internet is (it's more complicated than I thought...)
+- 👀 I’m interested
+- 🌱 I’m currently learning Linux, how to use docker, and everything else...
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me, if you know you know
